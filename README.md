@@ -4,4 +4,4 @@
 
 ###La versión de Unity utilizada para el desarrollo de este proyecto fue 2020.3.31f1.
 
-!(https://drive.google.com/file/d/1dU8N0zCJAuIlwboPZ4xr4OnOpCwmSKJE/view?usp=sharing)
+![image](/captura_pantalla_tetris.png)
